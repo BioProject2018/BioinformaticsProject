@@ -1,3 +1,6 @@
+% This script lets to edit an RGB Data Set converting it obtaining a 
+% 3D GrayScale, "Hematoxylin" or Reinhard Normalizated new Data Set.
+
 clear
 close all
 clc
