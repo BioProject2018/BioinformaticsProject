@@ -7,3 +7,5 @@ Before running CNN/FeaturesExtraction_GUI.py remember to follow the instructions
 Read UserManual.pdf to understand how to run the scripts of the project.
 
 Check the dependencies and discover how to get them reading Dependencies.pdf
+
+![workflow](http://bioinformatics2018.altervista.org/workflow)
