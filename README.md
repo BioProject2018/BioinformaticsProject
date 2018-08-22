@@ -8,4 +8,4 @@ Read UserManual.pdf to understand how to run the scripts of the project.
 
 Check the dependencies and discover how to get them reading Dependencies.pdf
 
-![workflow](http://bioinformatics2018.altervista.org/workflow)
+![workflow](https://drive.google.com/file/d/1Myp4QteHYcRSPS1EXREsU1UyWqSo7wCD/view)
