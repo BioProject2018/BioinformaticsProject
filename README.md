@@ -8,3 +8,4 @@ Read UserManual.pdf to understand how to run the scripts of the project.
 
 Check the dependencies and discover how to get them reading Dependencies.pdf
 
+![alt text](https://github.com/BioProject2018/BioinformaticsProject/blob/master/Workflow.PNG)
