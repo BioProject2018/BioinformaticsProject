@@ -1,6 +1,8 @@
 # BioinformaticsProject
 
-Visit http://bioinformatics.ml/ to watch some videos about the project.
+Read Presentation.pptx to understand the goals and the results of this project.
+
+Visit www.bioinformatics-project.ml to watch some videos about the project.
 
 Before running CNN/FeaturesExtraction_GUI.py remember to follow the instructions provided in CNN/models/README.txt.
 
